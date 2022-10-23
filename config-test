@@ -1,0 +1,3 @@
+  git config --global user.email "laurent.jacques@evolvers.fr"
+  git config --global user.name "ljacques99"
+  
